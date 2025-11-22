@@ -1,4 +1,3 @@
-// src/routes/mocks.router.js
 import { Router } from "express"
 import userModel from "../dao/models/User.js"
 import petModel from "../dao/models/Pet.js"
